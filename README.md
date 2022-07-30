@@ -2,4 +2,7 @@
 ### I am a Front-End developer and  I use JavaScript language. 
 ### I speak in three languages Uzbek, Russian, English
 ### Ask me anything, I am happy to help!
-### My Email: @shakhriyorisobekov@gmail.com
+### How to reach me:
+
+Instagram: [@shakhriyo_00](https://instagram.com/shakhriyor_00)
+Email: @shakhriyorisobekov@gmail.com
