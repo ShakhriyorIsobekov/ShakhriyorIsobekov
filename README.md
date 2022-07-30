@@ -4,4 +4,4 @@
 
 
 ### To connect with me tap to link:
-<a href="https://www.instagram.com/shakhriyor_00/">Instagram</a>
+<a href="instagram.com/shakhriyor_00">Instagram</a>
