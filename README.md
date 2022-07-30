@@ -2,5 +2,5 @@
 ### I am a Front-End developer and  I use JavaScript language. 
 ### I speak in three languages Uzbek, Russian, English
 ### Ask me anything, I am happy to help!
-<br/>
+<br />
 ### My Email: @shakhriyorisobekov@gmail.com
