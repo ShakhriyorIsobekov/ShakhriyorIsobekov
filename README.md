@@ -4,5 +4,6 @@
 ### Ask me anything, I am happy to help!
 ### How to reach me:
 
-Instagram: [@shakhriyo_00](https://instagram.com/shakhriyor_00)
+Instagram: [@shakhriyor_00](https://instagram.com/shakhriyor_00)
+<br />
 Email: @shakhriyorisobekov@gmail.com
