@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Shakhiryor Isobekov</h1>
 <h3>I am a software engineer who is passioante to learn new thing.</h3>
 <br>
+
+- 📫 How to reach me **shahriyorisabekov2@gmail.com**
+
 <h3>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shakhriyorisobekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhriyorisobekov" height="30" width="40" /></a>
