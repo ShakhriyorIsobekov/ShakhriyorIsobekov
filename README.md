@@ -2,7 +2,7 @@
 <h3>I am a software engineer who is passioante to learn new thing.</h3>
 <br>
 
-- 📫 How to reach me **shahriyorisabekov2@gmail.com**
+- 📫 Email: **shahriyorisabekov2@gmail.com**
 
 <h3>Connect with me:</h3>
 <p align="left">
