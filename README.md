@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shakhiryor Isobekov</h1>
-<h3>I am a software engineer who is passioante to learn new things.</h3>
+<h3>I am a software engineer with 1+ years of experience.</h3>
 <br>
 
 - 📫 Email: **shahriyorisabekov2@gmail.com**
